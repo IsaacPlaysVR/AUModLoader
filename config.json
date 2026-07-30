@@ -1,1 +1,37 @@
+{
+  "loader": {
+    "version": "1.0.0"
+  },
 
+  "mods": [
+    {
+      "name": "BepInEx (core)",
+      "required": true,
+      "repo": "https://github.com/BepInEx/BepInEx"
+    },
+
+    {
+      "name": "Town Of Us",
+      "required": false,
+      "repo": "https://github.com/eDonnes124/Town-Of-Us-R"
+    },
+
+    {
+      "name": "The Other Roles",
+      "required": false,
+      "repo": "https://github.com/TheOtherRolesAU/TheOtherRoles"
+    },
+
+    {
+      "name": "Town Of Host",
+      "required": false,
+      "repo": "https://github.com/tukasa0001/TownOfHost"
+    },
+
+    {
+      "name": "Lotus Continued",
+      "required": false,
+      "repo": "https://github.com/Lotus-AU/LotusContinued"
+    }
+  ]
+}
